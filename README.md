@@ -1,5 +1,5 @@
    # Hi 👋 , I'm Tal #
-![picture alt]((https://user-images.githubusercontent.com/68163421/110486318-35a0b700-80f5-11eb-8c50-a57b876bb1cd.png/200x150 "Title is optional")
+![picture alt](https://user-images.githubusercontent.com/68163421/110486318-35a0b700-80f5-11eb-8c50-a57b876bb1cd.png/200x150 "Hi 👋 , I'm Tal")
 
  * Nested bullet💻 I'm a full-stack developer
  * Nested bullet🌐 I make apps for Web browsers - HTML, JavaScript, Django
