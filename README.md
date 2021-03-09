@@ -1,8 +1,9 @@
 
    # Hi 👋 , I'm Tal #
  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi+👋+,+I'm+Tal&fontSize=70)
-<img align="center" width="670" height="410" src="https://user-images.githubusercontent.com/68163421/110490500-0e4be900-80f9-11eb-8494-8fba49a4cf9b.jpg">
-
+<p align="center">
+   <img width="460" height="300" src="https://user-images.githubusercontent.com/68163421/110490500-0e4be900-80f9-11eb-8494-8fba49a4cf9b.jpg">
+</p>
  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=70)
 
  * 💻 I'm a full-stack developer
