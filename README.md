@@ -1,4 +1,4 @@
-<div background-image=url("paper.gif");>
+<div background-image=url("paper.gif")>
 
   ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi+👋+,+I'm+Tal&fontSize=70)
  <p align="center">
