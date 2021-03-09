@@ -1,7 +1,7 @@
 
    # Hi 👋 , I'm Tal #
  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi+👋+,+I'm+Tal%20render&fontSize=70)
-<img align="center" width="2600px" height="700px" src="https://user-images.githubusercontent.com/68163421/110490500-0e4be900-80f9-11eb-8494-8fba49a4cf9b.jpg">
+<img align="center" width="450px" height="320px" src="https://user-images.githubusercontent.com/68163421/110490500-0e4be900-80f9-11eb-8494-8fba49a4cf9b.jpg">
 
  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=capsule%20render&fontSize=70)
 
