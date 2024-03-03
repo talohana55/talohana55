@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/talohana55/blood-bank/main/imageBio.jpg" alt="Tal's GitHub Banner">
+  <img src="https://res.cloudinary.com/dpq7je5lo/image/upload/v1709454707/imageBio_wvskyz.jpg" alt="Tal's GitHub Banner">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi+👋,+I'm+Tal&fontSize=70" alt="header">
-
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/talohana55/blood-bank/main/profilepicture.jpg" alt="Tal Ohana">
+  <img width="460" height="300" src="https://res.cloudinary.com/dpq7je5lo/image/upload/v1709454707/imageBio_wvskyz.jpg" alt="Tal Ohana">
 </p>
 
 <h1 align="center">💻 Full-Stack Developer | 🎓 B.Sc. in Software Engineering</h1>
