@@ -9,13 +9,15 @@
 
   <h4>🛠️ Experience:</h4>
   <ul>
-    <li>
+  <li>
       <strong>Full-Stack Developer at Let-Group – Bono CRM App</strong> (2023 – Present)<br>
-      Spearheading the development of a comprehensive CRM platform, handling full-stack duties ranging from server-side operations in Node.js and Express to client-side interfaces with Vue.js and Composition API.
+      Spearheading the development of a comprehensive CRM platform, handling full-stack duties ranging from server-side operations in Node.js and Express to client-side interfaces with Vue.js and Composition API. <br>
+      Check it out <a href="https://app.getbono.com/" target="_blank">here</a>.
     </li>
-    <li>
+  <li>
       <strong>Full-Stack Developer at JumboMail</strong> (2021 – 2022)<br>
-      Played a pivotal role in migrating a C# and Angular-based site to a React-driven architecture, collaborating within a development team and contributing to various project management tasks.
+      Played a pivotal role in migrating a C# and Angular-based site to a React-driven architecture, collaborating within a development team and contributing to various project management tasks. <br>
+      Visit <a href="https://www.jumbomail.me/" target="_blank">JumboMail</a>.
     </li>
   </ul>
 
