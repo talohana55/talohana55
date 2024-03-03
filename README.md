@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi+👋,+I'm+Tal&fontSize=70" alt="header">
 
   <p align="center">
-    <img width="460" height="300" src="https://raw.githubusercontent.com/yourusername/yourrepository/main/profilepicture.jpg" alt="Tal Ohana">
+    <img width="460" height="300" src="https://raw.githubusercontent.com/imageBio/blood-bank/main/imageBio.jpg" alt="Tal Ohana">
   </p>
 
   <h1 align="center">💻 Full-Stack Developer | 🎓 B.Sc. in Software Engineering</h1>
