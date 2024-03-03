@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dpq7je5lo/image/upload/v1709454707/imageBio_wvskyz.jpg" alt="Tal's GitHub Banner">
-</p>
-
-<p align="center">
   <img width="460" height="300" src="https://res.cloudinary.com/dpq7je5lo/image/upload/v1709454707/imageBio_wvskyz.jpg" alt="Tal Ohana">
 </p>
 
