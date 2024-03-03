@@ -14,13 +14,13 @@
   <p>
     <strong>📫 Reach me at:</strong> <br>
     📞 +972544436188 | ✉️ <a href="mailto:taloh13@gmail.com">taloh13@gmail.com</a> <br>
-    <a href="[https://www.linkedin.com/in/tal-ohana-a01abb14/](https://www.linkedin.com/in/tal-ohana-a01abb1b4/)">LinkedIn</a> | <a href="https://github.com/talohana55">GitHub</a>
+    <a href="https://www.linkedin.com/in/tal-ohana-a01abb1b4/">LinkedIn</a> | <a href="https://github.com/talohana55">GitHub</a>
   </p>
   <p>
     <strong>🎖️ Notable Projects:</strong> <br>
-    - <a href="[LINK_TO_WHAT2WATCH](https://github.com/talohana55/What2Watch)">What2Watch - React/TypeScript</a> <br>
-    - <a href="[LINK_TO_DOCTOR_MANAGEMENT_SYSTEM](https://github.com/talohana55/DoctorM)">Doctor Management System - React App</a> <br>
-    - <a href="[LINK_TO_DELIVERY_SYSTEM](https://github.com/talohana55/Delivery-System-JAVA)">Delivery System - Java</a>
+    - <a href="https://github.com/talohana55/What2Watch">What2Watch - React/TypeScript</a> <br>
+    - <a href="https://github.com/talohana55/DoctorM">Doctor Management System - React App</a> <br>
+    - <a href="https://github.com/talohana55/Delivery-System-JAVA">Delivery System - Java</a>
   </p>
   <p>
     <strong>🎖️ Achievements:</strong> <br>
